@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smartextensionslab
+- 👋 Hi, I’m Pankaj @smartextensionslab
 - 👀 I’m interested in all programming languages.
 - 🌱 I’m currently learning Python and creating chrome extensions.
 - 💞️ I’m looking to collaborate on learning all kind of languages.
